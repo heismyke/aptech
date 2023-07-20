@@ -3,9 +3,264 @@
     "students" : [
       {
         "name": "David",
-        "course": "data science"
-      }
+        "course": "(adse)java,data science",
+        "fastTrack" : null,
+        "isStudentAvailable" : null
+      },
+        {
+        "name": "micko",
+        "course": "(adse) java java",
+          "fastTrack" : null,
+        "isStudentAvailable" : null
+      },
+        {
+        "name": "Olivia",
+        "course": "(adse)java,data science",
+          "fastTrack" : null,
+        "isStudentAvailable" : null
+      },
+        {
+        "name": "Ethan",
+        "course": "(adse)java,data science",
+          "fastTrack" : null,
+        "isStudentAvailable" : null
+      },
+        {
+        "name": "Sophia",
+        "course": "java java",
+          "fastTrack" : null,
+        "isStudentAvailable" : null
+      },
+        {
+        "name": "Manson",
+        "course": "java java",
+          "fastTrack" : null,
+        "isStudentAvailable" : null
+      },
+        {
+        "name": "Ava",
+        "course": "(adse)java,data science",
+          "fastTrack" : null,
+        "isStudentAvailable" : null
+      },
+        {
+        "name": "Liam",
+        "course": "(adse)java,data science",
+          "fastTrack" : null,
+        "isStudentAvailable" : null
+      },
+        {
+        "name": "isabella",
+        "course": "java java",
+          "fastTrack" : null,
+        "isStudentAvailable" : null
+      },
+        {
+        "name": "Noah",
+        "course": "(adse)java,data science",
+          "fastTrack" : null,
+        "isStudentAvailable" : null
+      },
       ]
     
-  }
+    
+  },
+  "sem2" : {
+    "students" : [
+      {
+        "name": "Mia",
+        "course": "(adse)java,data science",
+        "fastTrack" : null,
+        "isStudentAvailable" : null
+      },
+        {
+        "name": "Aiden",
+        "course": "(adse) java java",
+          "fastTrack" : null,
+        "isStudentAvailable" : null
+      },
+        {
+        "name": "Emma",
+        "course": "(adse)java,data science",
+          "fastTrack" : null,
+        "isStudentAvailable" : null
+      },
+        {
+        "name": "Lucas",
+        "course": "(adse)java,data science",
+          "fastTrack" : null,
+        "isStudentAvailable" : null
+      },
+        {
+        "name": "Harper",
+        "course": "java java",
+          "fastTrack" : null,
+        "isStudentAvailable" : null
+      },
+        {
+        "name": "Jasckson",
+        "course": "java java",
+          "fastTrack" : null,
+        "isStudentAvailable" : null
+      },
+        {
+        "name": "Amellia",
+        "course": "(adse)java,data science",
+          "fastTrack" : null,
+        "isStudentAvailable" : null
+      },
+        {
+        "name": "Caden",
+        "course": "(adse)java,data science",
+          "fastTrack" : null,
+        "isStudentAvailable" : null
+      },
+        {
+        "name": "Abigail",
+        "course": "java java",
+          "fastTrack" : null,
+        "isStudentAvailable" : null
+      },
+        {
+        "name": "Logan",
+        "course": "(adse)java,data science",
+          "fastTrack" : null,
+        "isStudentAvailable" : null
+      },
+      ],
+    
+    
+  },
+  "sem3" : {
+    "students" : [
+      {
+        "name": "Michael",
+        "course": "(adse)java,data science",
+        "fastTrack" : null,
+        "isStudentAvailable" : null
+      },
+        {
+        "name": "Nuruden",
+        "course": "(adse) java java",
+          "fastTrack" : null,
+        "isStudentAvailable" : null
+      },
+        {
+        "name": "Maryam",
+        "course": "(adse)java,data science",
+          "fastTrack" : null,
+        "isStudentAvailable" : null
+      },
+        {
+        "name": "Usman",
+        "course": "(adse)java,data science",
+          "fastTrack" : null,
+        "isStudentAvailable" : null
+      },
+        {
+        "name": "Ken",
+        "course": "java java",
+          "fastTrack" : null,
+        "isStudentAvailable" : null
+      },
+        {
+        "name": "Ken",
+        "course": "java java",
+          "fastTrack" : null,
+        "isStudentAvailable" : null
+      },
+        {
+        "name": "Ik",
+        "course": "(adse)java,data science",
+          "fastTrack" : null,
+        "isStudentAvailable" : null
+      },
+        {
+        "name": "Chinwe",
+        "course": "(adse)java,data science",
+          "fastTrack" : null,
+        "isStudentAvailable" : null
+      },
+        {
+        "name": "Sodiq",
+        "course": "java java",
+          "fastTrack" : null,
+        "isStudentAvailable" : null
+      },
+        {
+        "name": "Blessing",
+        "course": "(adse)java,data science",
+          "fastTrack" : null,
+        "isStudentAvailable" : null
+      },
+      ],
+    
+    
+  },
+  "sem3" : {
+    "students" : [
+      {
+        "name": "Grace",
+        "course": "(adse)java,data science",
+        "fastTrack" : null,
+        "isStudentAvailable" : null
+      },
+        {
+        "name": "Benjamin",
+        "course": "(adse) java java",
+          "fastTrack" : null,
+        "isStudentAvailable" : null
+      },
+        {
+        "name": "Maryam",
+        "course": "(adse)java,data science",
+          "fastTrack" : null,
+        "isStudentAvailable" : null
+      },
+        {
+        "name": "Avery",
+        "course": "(adse)java,data science",
+          "fastTrack" : null,
+        "isStudentAvailable" : null
+      },
+        {
+        "name": "Ken",
+        "course": "java java",
+          "fastTrack" : null,
+        "isStudentAvailable" : null
+      },
+        {
+        "name": "Ken",
+        "course": "java java",
+          "fastTrack" : null,
+        "isStudentAvailable" : null
+      },
+        {
+        "name": "Ik",
+        "course": "(adse)java,data science",
+          "fastTrack" : null,
+        "isStudentAvailable" : null
+      },
+        {
+        "name": "Liz",
+        "course": "(adse)java,data science",
+          "fastTrack" : null,
+        "isStudentAvailable" : null
+      },
+        {
+        "name": "Sodiq",
+        "course": "java java",
+          "fastTrack" : null,
+        "isStudentAvailable" : null
+      },
+        {
+        "name": "Elijah",
+        "course": "(adse)java,data science",
+          "fastTrack" : null,
+        "isStudentAvailable" : null
+      },
+      ],
+    
+    
+  },
 }
