@@ -190,5 +190,69 @@
         "isStudentAvailable": null
       }
     ]
+  },
+   "sem4": {
+    "students": [
+      {
+        "name": "Michael",
+        "course": "(adse)java,data science",
+        "fastTrack": null,
+        "isStudentAvailable": null
+      },
+      {
+        "name": "Nuruden",
+        "course": "(adse) java java",
+        "fastTrack": null,
+        "isStudentAvailable": null
+      },
+      {
+        "name": "Maryam",
+        "course": "(adse)java,data science",
+        "fastTrack": null,
+        "isStudentAvailable": null
+      },
+      {
+        "name": "Usman",
+        "course": "(adse)java,data science",
+        "fastTrack": null,
+        "isStudentAvailable": null
+      },
+      {
+        "name": "Ken",
+        "course": "java java",
+        "fastTrack": null,
+        "isStudentAvailable": null
+      },
+      {
+        "name": "Ken",
+        "course": "java java",
+        "fastTrack": null,
+        "isStudentAvailable": null
+      },
+      {
+        "name": "Ik",
+        "course": "(adse)java,data science",
+        "fastTrack": null,
+        "isStudentAvailable": null
+      },
+      {
+        "name": "Chinwe",
+        "course": "(adse)java,data science",
+        "fastTrack": null,
+        "isStudentAvailable": null
+      },
+      {
+        "name": "Sodiq",
+        "course": "java java",
+        "fastTrack": null,
+        "isStudentAvailable": null
+      },
+      {
+        "name": "Blessing",
+        "course": "(adse)java,data science",
+        "fastTrack": null,
+        "isStudentAvailable": null
+      }
+    ]
   }
 }
