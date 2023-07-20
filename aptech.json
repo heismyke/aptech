@@ -1,5 +1,11 @@
 {
-  "name": "John Doe",
-  "age": 30,
-  "email": "john@example.com"
+  "sem1" : {
+    "students" : [
+      {
+        "name": "David",
+        "course": "data science"
+      }
+      ]
+    
+  }
 }
