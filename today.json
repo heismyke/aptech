@@ -1,0 +1,10 @@
+{
+    "semOne" : {
+        "students" : [
+            {
+                "name" : "John",
+                "age" : 30
+            }
+        ]
+    }
+}
