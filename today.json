@@ -3,15 +3,26 @@
         "students" : [
             {
                 "name" : "John",
-                "age" : 30
+                "age" : 30,
+                "gender": male,
             }
         ]
     },
       "semTwo" : {
         "students" : [
             {
-                "name" : "mike",
-                "age" : 40
+                "name" : "nicole",
+                "age" : 40,
+                 "gender": female,
+            }
+        ]
+    },
+       "semThree" : {
+        "students" : [
+            {
+                "name" : "buzz",
+                "age" : 20,
+                 "gender": female,
             }
         ]
     }
