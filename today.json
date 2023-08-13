@@ -25,5 +25,68 @@
                 "gender": "female"
             }
         ]
+    },
+      "semFour" : {
+        "students" : [
+            {
+                "name" : "arinze",
+                "age" : 20,
+                "gender": "female"
+            }
+        ]
+    },
+      "semFive" : {
+        "students" : [
+            {
+                "name" : "musa",
+                "age" : 20,
+                "gender": "female"
+            }
+        ]
+    },
+      "semSix" : {
+        "students" : [
+            {
+                "name" : "dee",
+                "age" : 20,
+                "gender": "male"
+            }
+        ]
+    },
+      "semSeven" : {
+        "students" : [
+            {
+                "name" : "ted",
+                "age" : 20,
+                "gender": "male"
+            }
+        ]
+    },
+      "semEight" : {
+        "students" : [
+            {
+                "name" : "ashlee",
+                "age" : 20,
+                "gender": "female"
+            }
+        ]
+    },
+      "semNine" : {
+        "students" : [
+            {
+                "name" : "david",
+                "age" : 20,
+                "gender": "male"
+            }
+        ]
+    },
+      "semTen" : {
+        "students" : [
+            {
+                "name" : "mike",
+                "age" : 20,
+                "gender": "female"
+            }
+        ]
     }
 }
