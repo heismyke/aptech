@@ -5,7 +5,18 @@
                 "name" : "John",
                 "age" : 30,
                 "gender": "male"
+            },
+             {
+                "name" : "musa",
+                "age" : 30,
+                "gender": "male"
+            },
+             {
+                "name" : "Jeff",
+                "age" : 30,
+                "gender": "female"
             }
+            
         ]
     },
     "semTwo" : {
