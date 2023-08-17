@@ -1,1 +1,32 @@
+{
+    "Aptech students" : {
+        "Sem1" : {
+            "students" : [
+                {
+                    "name" : "Michael Shekwolo",
+                    "gender" : "Male",
+                    "email" : "heismyke@gmail.com",
+                    "course" : "Java, Data Science(ADSE)",
+                    "student no" : 3337890,
+                    "year" : 2022
 
+                    
+
+                },
+                {
+                    "name" : "Kelvin Bawa",
+                    "gender" : "Male",
+                    "email" : "kelvinbawa@gmail.com",
+                    "course" : "Java, java(ADSE)",
+                    "student no" : 3337867,
+                    "year" : 2022
+
+                    
+
+                }
+            ]
+        }
+        
+    }
+  
+}
