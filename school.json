@@ -25,6 +25,32 @@
 
                 }
             ]
+        },
+        "Sem2" : {
+            "students" : [
+                {
+                    "name" : "Aku Miracle",
+                    "gender" : "Female",
+                    "email" : "akumiracle@gmail.com",
+                    "course" : "Java, Data Science(ADSE)",
+                    "student no" : 3337880,
+                    "year" : 2021
+
+                    
+
+                },
+                {
+                    "name" : "Musa nurudeen",
+                    "gender" : "Male",
+                    "email" : "musanurudeen2002@gmail.com",
+                    "course" : "Java, java(ADSE)",
+                    "student no" : 3337777,
+                    "year" : 2021
+
+                    
+
+                }
+            ]
         }
         
     }
