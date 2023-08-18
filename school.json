@@ -1,6 +1,6 @@
 {
     "Aptech students" : {
-        "Sem1" : {
+        "Sem 1" : {
             "students" : [
                 {
                     "name" : "Michael Shekwolo",
@@ -26,7 +26,7 @@
                 }
             ]
         },
-        "Sem2" : {
+        "Sem 2" : {
             "students" : [
                 {
                     "name" : "Aku Miracle",
@@ -40,11 +40,63 @@
 
                 },
                 {
-                    "name" : "Musa nurudeen",
+                    "name" : "Musa Nurudeen",
                     "gender" : "Male",
                     "email" : "musanurudeen2002@gmail.com",
                     "course" : "Java, java(ADSE)",
                     "student no" : 3337777,
+                    "year" : 2021
+
+                    
+
+                }
+            ]
+        },
+        "Sem 3" : {
+            "students" : [
+                {
+                    "name" : "Alvin Bawa",
+                    "gender" : "Male",
+                    "email" : "alvinbawa@gmail.com",
+                    "course" : "Java, Data Science(ADSE)",
+                    "student no" : 3337999,
+                    "year" : 2023
+
+                    
+
+                },
+                {
+                    "name" : "Mercy Needs",
+                    "gender" : "Female",
+                    "email" : "mercyneeds@gmail.com",
+                    "course" : "Java, java(ADSE)",
+                    "student no" : 3337080,
+                    "year" : 2023
+
+                    
+
+                }
+            ]
+        },
+        "Sem 4" : {
+            "students" : [
+                {
+                    "name" : "John Doe",
+                    "gender" : "Male",
+                    "email" : "johndoe@gmail.com",
+                    "course" : "Java, Data Science(ADSE)",
+                    "student no" : 3337456,
+                    "year" : 2021
+
+                    
+
+                },
+                {
+                    "name" : "Valantine Isreal",
+                    "gender" : "Male",
+                    "email" : "isreal@gmail.com",
+                    "course" : "Java, java(ADSE)",
+                    "student no" : 3334343,
                     "year" : 2021
 
                     
